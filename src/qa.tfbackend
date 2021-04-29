@@ -1,0 +1,4 @@
+
+region = "sa-east-1"
+bucket = "ritchie-demo-create-cluster"
+key    = "terraform.tfstate"
